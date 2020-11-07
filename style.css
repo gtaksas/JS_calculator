@@ -19,6 +19,8 @@ body {
     grid-template-rows: minmax(120px, auto) repeat(5, 100px);
 }
 
+/* something's wrong in the calculator-grid section below */
+
 .calculator-grid {
     display: grid;
     justify-content: center;
